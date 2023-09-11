@@ -1,6 +1,6 @@
 # FullstackChallenge
 
-Create a .env file inside the server folder:
+Create a .env file inside the server folder with these datas:
 # SERVER
 PORT=3000
 
